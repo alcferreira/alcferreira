@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm André 👋
 
-<!--
-**alcferreira/alcferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A frontend developer based in Brazil 🇧🇷
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working as the frontend leader on [WhatsGood](http://sourcewhatsgood.com/) a plataform that connects local producers to the local community
+- 💬 I'm open for mentoring people who are starting their career on technology, send me message ;) 
+- 📫 You can reach me on twitter: [https://twitter.com/alcferreira](alcferreira)
+
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcferreira&show_icons=true&theme=radical)
+)
+
+
