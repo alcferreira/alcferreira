@@ -4,7 +4,7 @@ A frontend developer based in Brazil 🇧🇷
 
 
 - 🔭 Currently working as the frontend leader on [WhatsGood](http://sourcewhatsgood.com/) a plataform that connects local producers to the local community
-- 💬 I'm open for mentoring people who are starting their career on technology, send me message ;) 
+- 💬 I'm open for mentoring people who are starting their career on technology, send me a message ;) 
 - 📫 You can reach me on twitter: [https://twitter.com/alcferreira](alcferreira)
 
 
