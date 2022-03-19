@@ -1,6 +1,6 @@
 ### Hi there, I'm André 👋
 
-A frontend developer based in Brazil 🇧🇷
+A frontend engineer based in Brazil 🇧🇷
 
 
 - 🔭 Currently working as the principal frontend engineer and team leader at [WhatsGood](http://sourcewhatsgood.com/) a plataform that connects local producers to the local community
